@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477177382577",
+    "firebase_url": "https://cordova-firebase-demo.firebaseio.com",
+    "project_id": "cordova-firebase-demo",
+    "storage_bucket": "cordova-firebase-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477177382577:android:02b7e87a984a0a84",
+        "android_client_info": {
+          "package_name": "io.monaca.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477177382577-r78t1apud4qd5nfa17dimfbo80s2f6h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.monaca.firebase",
+            "certificate_hash": "917d5c340635e863b1f46137a030ffa71cdbe027"
+          }
+        },
+        {
+          "client_id": "477177382577-81nje4tfrg4pqrrddevu44ci72uefvpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2x5eK255zLhd52qX1u8A1uPdWdEiGS4s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477177382577-81nje4tfrg4pqrrddevu44ci72uefvpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
